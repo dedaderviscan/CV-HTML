@@ -1,0 +1,60 @@
+body {background-color: #F5EFE6;
+     margin-left: 1%;
+     }
+
+label{
+    display: block; /* add this */
+    padding-top: 5px;
+    margin-left: 1%
+}
+
+input{
+    margin-left: 1%;
+}
+
+textarea {
+    margin-left: 1%;
+}
+
+hr {
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    margin-left: 15%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}    
+
+h1 {color: #5DA7DB;
+   text-decoration: underline;
+}
+
+h3 {color: #5DA7DB;
+   text-decoration: underline;
+}
+
+.table5{
+    margin-left: 7%;
+}
+
+.Hobbies-body {
+    zoom: 35%;
+    
+}
+
+.photo-title{
+    font-size: 3.5em;
+    padding: 1em;
+    margin: 1em;
+}
+
+.hobby-photos{
+    padding: 1em;
+}
+
+.Hobbies-h3{
+    font-size: 5em;
+}
